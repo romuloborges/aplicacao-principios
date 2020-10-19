@@ -1,0 +1,1 @@
+No DRY entendi que devemos construir métodos e classes que possam ser reutilizados no futuro, de forma que a repetição de código se torne mínima, mas sempre tomando cuidado para não tornar o projeto altamente acoplado.
